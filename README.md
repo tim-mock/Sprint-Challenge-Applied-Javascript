@@ -29,15 +29,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead.
 
 1. What is the DOM?
-
+the dom is all the data of a web page in objects
 2. What is an event?
-
+an event is some kind of input to the page
 3. What is an event listener?
-
+an event listener will wait for the event to occur before it executes code
 4. Why would we convert a NodeList into an Array?
-
+node lists arent javascript so many array functions do not work on them
 5. What is a component?
-
+a component is repetable code that that data can be inputed into 
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
